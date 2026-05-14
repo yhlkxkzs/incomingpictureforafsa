@@ -1,0 +1,20 @@
+{
+  "subject_type": "fruit",
+  "fruit_type": "strawberry",
+  "leaf_condition": "healthy",
+  "maturity": "unknown",
+  "has_disease": false,
+  "disease_name": "",
+  "disease_severity": "none",
+  "image_type": "photo",
+  "multiple_fruits": false,
+  "notes": "",
+  "client_time": "2026-05-14T16:18:45.280006Z",
+  "detection_id": "rec_1778775525219",
+  "_afsa_meta": {
+    "source": "app_merged_detection",
+    "synced_at": "2026-05-14T16:18:45.280090Z",
+    "top_class": "草莓",
+    "top_confidence": 0.9999997615814209
+  }
+}
