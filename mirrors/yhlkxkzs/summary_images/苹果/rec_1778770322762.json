@@ -1,0 +1,18 @@
+{
+  "subject_type": "fruit",
+  "fruit_type": "apple",
+  "leaf_condition": "other",
+  "maturity": "ripe",
+  "has_disease": false,
+  "disease_name": "",
+  "disease_severity": "none",
+  "image_type": "photo",
+  "multiple_fruits": false,
+  "notes": "",
+  "client_time": "2026-05-14T14:52:34.332935Z",
+  "detection_id": "rec_1778770322762",
+  "_afsa_meta": {
+    "source": "user_calibration",
+    "synced_at": "2026-05-14T14:52:37.450476Z"
+  }
+}
