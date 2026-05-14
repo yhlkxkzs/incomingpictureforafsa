@@ -1,0 +1,20 @@
+{
+  "subject_type": "fruit",
+  "fruit_type": "apple",
+  "leaf_condition": "healthy",
+  "maturity": "unknown",
+  "has_disease": false,
+  "disease_name": "",
+  "disease_severity": "none",
+  "image_type": "photo",
+  "multiple_fruits": false,
+  "notes": "",
+  "client_time": "2026-05-14T16:00:13.504271Z",
+  "detection_id": "rec_1778774413474",
+  "_afsa_meta": {
+    "source": "app_merged_detection",
+    "synced_at": "2026-05-14T16:00:13.506050Z",
+    "top_class": "苹果",
+    "top_confidence": 0.8486805558204651
+  }
+}
