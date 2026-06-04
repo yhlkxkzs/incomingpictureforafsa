@@ -1,0 +1,20 @@
+{
+  "subject_type": "fruit",
+  "fruit_type": "other",
+  "leaf_condition": "healthy",
+  "maturity": "unknown",
+  "has_disease": false,
+  "disease_name": "",
+  "disease_severity": "none",
+  "image_type": "photo",
+  "multiple_fruits": false,
+  "notes": "",
+  "client_time": "2026-06-04T13:29:25.697112Z",
+  "detection_id": "rec_1780579647764",
+  "_afsa_meta": {
+    "source": "app_merged_detection",
+    "synced_at": "2026-06-04T13:29:25.697199Z",
+    "top_class": "已提交 GitHub，等待 Actions 推理",
+    "top_confidence": 0.0
+  }
+}
