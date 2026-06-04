@@ -1,0 +1,20 @@
+{
+  "subject_type": "fruit",
+  "fruit_type": "other",
+  "leaf_condition": "healthy",
+  "maturity": "unknown",
+  "has_disease": false,
+  "disease_name": "",
+  "disease_severity": "none",
+  "image_type": "photo",
+  "multiple_fruits": false,
+  "notes": "",
+  "client_time": "2026-06-04T15:50:16.872175Z",
+  "detection_id": "rec_1780588095510",
+  "_afsa_meta": {
+    "source": "app_merged_detection",
+    "synced_at": "2026-06-04T15:50:16.872235Z",
+    "top_class": "yali_pear",
+    "top_confidence": 0.999812662601471
+  }
+}
