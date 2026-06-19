@@ -1,0 +1,20 @@
+{
+  "subject_type": "fruit",
+  "fruit_type": "other",
+  "leaf_condition": "healthy",
+  "maturity": "unknown",
+  "has_disease": false,
+  "disease_name": "",
+  "disease_severity": "none",
+  "image_type": "photo",
+  "multiple_fruits": false,
+  "notes": "",
+  "client_time": "2026-06-19T10:52:15.386942Z",
+  "detection_id": "rec_1781866214526",
+  "_afsa_meta": {
+    "source": "app_merged_detection",
+    "synced_at": "2026-06-19T10:52:15.387045Z",
+    "top_class": "杨梅",
+    "top_confidence": 0.990287184715271
+  }
+}
