@@ -1,0 +1,20 @@
+{
+  "subject_type": "fruit",
+  "fruit_type": "other",
+  "leaf_condition": "healthy",
+  "maturity": "unknown",
+  "has_disease": false,
+  "disease_name": "",
+  "disease_severity": "none",
+  "image_type": "photo",
+  "multiple_fruits": false,
+  "notes": "",
+  "client_time": "2026-06-26T13:42:58.660570Z",
+  "detection_id": "rec_1782481253979",
+  "_afsa_meta": {
+    "source": "app_merged_detection",
+    "synced_at": "2026-06-26T13:42:58.660692Z",
+    "top_class": "健康",
+    "top_confidence": 0.36556875705718994
+  }
+}
