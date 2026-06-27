@@ -1,0 +1,68 @@
+{
+  "orchards": [
+    {
+      "id": "1",
+      "name": "我的果园11111",
+      "description": "东侧坡地，排水良好",
+      "plantingMethod": "露地栽培",
+      "fruitType": "苹果",
+      "plantingType": "普通果树",
+      "treeCount": 50,
+      "area": null,
+      "coordSys": "wgs",
+      "latitude": 30.970898561398457,
+      "longitude": 121.27214522368963,
+      "country": "中国",
+      "province": "上海市",
+      "city": "上海市",
+      "district": "松江区",
+      "street": "福卫路 403号",
+      "districtAdcode": "310117",
+      "address": "中国 上海市 上海市 松江区 福卫路 403号",
+      "radiusMeters": 150.0,
+      "fenceMode": "circle",
+      "polygon": null,
+      "coverImagePath": "/data/user/0/com.example.smart_agriculture_app/cache/scaled_IMG_20240721_182723.jpg"
+    },
+    {
+      "id": "2",
+      "name": "我的果园2",
+      "description": "大棚草莓试验田",
+      "plantingMethod": "大棚栽培",
+      "fruitType": "草莓",
+      "plantingType": "藤蔓作物",
+      "treeCount": null,
+      "area": 2.5,
+      "coordSys": "wgs",
+      "latitude": 31.2304,
+      "longitude": 121.4737,
+      "address": "上海市浦东新区（示例）",
+      "fenceMode": "polygon",
+      "polygon": [
+        {
+          "lat": 31.231,
+          "lng": 121.473
+        },
+        {
+          "lat": 31.231,
+          "lng": 121.4744
+        },
+        {
+          "lat": 31.2298,
+          "lng": 121.4744
+        },
+        {
+          "lat": 31.2298,
+          "lng": 121.473
+        }
+      ]
+    }
+  ],
+  "_afsa_meta": {
+    "source": "orchard_index",
+    "synced_at": "2026-06-27T13:47:19.759276Z",
+    "afsa_user_id": "gh_146633727",
+    "afsa_username": "yhlkxkzs",
+    "repo": "yhlkxkzs/afsa-incoming-yhlkxkzs"
+  }
+}
